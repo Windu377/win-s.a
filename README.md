@@ -1,0 +1,2 @@
+# win-s.a
+tugas 
